@@ -4,7 +4,7 @@ This repository tracks my learning journey through the **DataTalks.Club Data Eng
 
 My goal: **upskill into data engineering** by learning how to design, build, orchestrate, and ship production-style data workflows—from ingestion all the way to analytics and streaming.
 
-> Official course repo (source of truth): https://github.com/DataTalksClub/data-engineering-zoomcamp
+> Official course repo: https://github.com/DataTalksClub/data-engineering-zoomcamp
 
 ---
 
